@@ -77,8 +77,7 @@ function App(): React.JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+            我要学习React Nativekjhnjhjgjhkh
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -102,7 +101,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24,
   },
   sectionTitle: {
-    fontSize: 24,
+    fontSize: 28,
     fontWeight: '600',
   },
   sectionDescription: {
